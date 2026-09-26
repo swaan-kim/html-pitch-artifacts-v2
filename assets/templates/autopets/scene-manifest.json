@@ -1,0 +1,162 @@
+[
+  {
+    "id": "technical",
+    "title": "Ponytail: 기술 설명",
+    "originalPage": 1,
+    "steps": 0,
+    "file": "scenes/technical.html",
+    "group": null
+  },
+  {
+    "id": "symbol",
+    "title": "Ponytail: 이미지로 이해하기",
+    "originalPage": 2,
+    "steps": 0,
+    "file": "scenes/symbol.html",
+    "group": null
+  },
+  {
+    "id": "cover",
+    "title": "AutoPets",
+    "originalPage": 3,
+    "steps": 1,
+    "file": "scenes/cover.html",
+    "group": null
+  },
+  {
+    "id": "problem",
+    "title": "무엇을 물어야 할지 모를 때",
+    "originalPage": 4,
+    "steps": 0,
+    "file": "scenes/problem.html",
+    "group": null
+  },
+  {
+    "id": "notes-evidence",
+    "title": "문제 원인: 선택·활용·확인·기능 이해",
+    "originalPage": 5,
+    "steps": 0,
+    "file": "scenes/notes-evidence.html",
+    "group": null
+  },
+  {
+    "id": "notes-hypotheses",
+    "title": "문제 원인: 시간과 비용",
+    "originalPage": 6,
+    "steps": 0,
+    "file": "scenes/notes-hypotheses.html",
+    "group": null
+  },
+  {
+    "id": "ai-complex",
+    "title": "AI를 잘 쓰기 위한 기술과 설정",
+    "originalPage": 7,
+    "steps": 0,
+    "file": "scenes/ai-complex.html",
+    "group": null
+  },
+  {
+    "id": "gurumi-intro",
+    "title": "사진 속 구르미에서 나의 AI 펫으로",
+    "originalPage": 8,
+    "steps": 1,
+    "file": "scenes/gurumi-intro.html",
+    "group": null
+  },
+  {
+    "id": "ecosystem",
+    "title": "스킬과 MCP: 정보의 양에서 내 일에 맞는 추천으로",
+    "originalPage": 9,
+    "steps": 2,
+    "file": "scenes/ecosystem.html",
+    "group": null
+  },
+  {
+    "id": "concept",
+    "title": "펫 하나에 담긴 작업 방식",
+    "originalPage": 10,
+    "steps": 0,
+    "file": "scenes/concept.html",
+    "group": null
+  },
+  {
+    "id": "roles",
+    "title": "직무별 펫과 추천",
+    "originalPage": 11,
+    "steps": 1,
+    "file": "scenes/roles.html",
+    "group": null
+  },
+  {
+    "id": "demo",
+    "title": "웹페이지 제작 시나리오",
+    "originalPage": 12,
+    "steps": 2,
+    "file": "scenes/demo.html",
+    "group": null
+  },
+  {
+    "id": "routing-why",
+    "title": "모델 라우팅이 필요한 이유",
+    "originalPage": 13,
+    "steps": 2,
+    "file": "scenes/routing-why.html",
+    "group": null
+  },
+  {
+    "id": "architecture",
+    "title": "펫 뒤에서 연결되는 것들",
+    "originalPage": 14,
+    "steps": 0,
+    "file": "scenes/architecture.html",
+    "group": null
+  },
+  {
+    "id": "research",
+    "title": "조사에서 정한 방향",
+    "originalPage": 15,
+    "steps": 0,
+    "file": "scenes/research.html",
+    "group": null
+  },
+  {
+    "id": "meaning",
+    "title": "펫으로 읽는 작업과 확장 계획",
+    "originalPage": 16,
+    "steps": 5,
+    "file": "scenes/meaning.html",
+    "group": null
+  },
+  {
+    "id": "production",
+    "title": "현재 진행",
+    "originalPage": 17,
+    "steps": 0,
+    "file": "scenes/production.html",
+    "group": null
+  },
+  {
+    "id": "closing-position",
+    "title": "컴공과 미대 사이, 넓어진 가능성",
+    "originalPage": 18,
+    "steps": 1,
+    "file": "scenes/closing-position.html",
+    "group": "closing-story"
+  },
+  {
+    "id": "closing-media",
+    "title": "글미: 기술을 사람이 쓰는 경험으로",
+    "originalPage": 19,
+    "steps": 1,
+    "file": "scenes/closing-media.html",
+    "group": "closing-story"
+  },
+  {
+    "id": "feedback",
+    "title": "사용하기 쉬운 도구를 만드는 사람",
+    "originalPage": 20,
+    "steps": 2,
+    "file": "scenes/feedback.html",
+    "group": "closing-story"
+  }
+]

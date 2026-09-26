@@ -1,0 +1,2007 @@
+{
+  "date": "2026-09-26T20:13:35.084Z",
+  "browser": "153.0.4234.48",
+  "screenshots": [
+    {
+      "version": "early-a",
+      "page": 1,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-a-1-1-1280.png"
+    },
+    {
+      "version": "early-a",
+      "page": 2,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-a-2-1-1280.png"
+    },
+    {
+      "version": "early-a",
+      "page": 3,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-a-3-1-1280.png"
+    },
+    {
+      "version": "early-a",
+      "page": 4,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-a-4-1-1280.png"
+    },
+    {
+      "version": "early-a",
+      "page": 5,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-a-5-1-1280.png"
+    },
+    {
+      "version": "early-a",
+      "page": 6,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-a-6-1-1280.png"
+    },
+    {
+      "version": "early-a",
+      "page": 7,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-a-7-1-1280.png"
+    },
+    {
+      "version": "early-a",
+      "page": 8,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-a-8-1-1280.png"
+    },
+    {
+      "version": "early-a",
+      "page": 9,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-a-9-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 1,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-1-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 2,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-2-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 3,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-3-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 4,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-4-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 5,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-5-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 6,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-6-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 7,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-7-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 8,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-8-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 9,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-9-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 10,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-10-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 11,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-11-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 12,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-12-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 13,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-13-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 14,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-14-1-1280.png"
+    },
+    {
+      "version": "early-b",
+      "page": 12,
+      "cue": 5,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/early-b-12-5-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 1,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-1-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 2,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-2-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 3,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-3-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 4,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-4-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 5,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-5-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 6,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-6-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 7,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-7-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 8,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-8-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 9,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-9-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 10,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-10-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 11,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-11-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 12,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-12-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 13,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-13-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 14,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-14-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 15,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-15-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 17,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-17-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 18,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-18-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 19,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-19-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 20,
+      "cue": 1,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-20-1-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 11,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-11-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 3,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-3-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 4,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-4-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 5,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-5-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 8,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-8-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 9,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-9-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 13,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-13-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 18,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-18-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 20,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-20-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 3,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-3-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 9,
+      "cue": 3,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-9-3-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 12,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-12-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 12,
+      "cue": 3,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-12-3-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 13,
+      "cue": 3,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-13-3-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 6,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-6-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 19,
+      "cue": 2,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-19-2-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 20,
+      "cue": 3,
+      "width": 1280,
+      "height": 720,
+      "reusedCapture": true,
+      "file": ".build/qa/final-20-3-1280.png"
+    },
+    {
+      "version": "final",
+      "page": 1,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-1-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 2,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-2-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 3,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-3-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 4,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-4-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 5,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-5-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 6,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-6-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 7,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-7-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 8,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-8-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 9,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-9-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 10,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-10-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 11,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-11-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 12,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-12-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 13,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-13-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 14,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-14-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 15,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-15-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 17,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-17-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 18,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-18-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 19,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-19-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 20,
+      "cue": 1,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-20-1-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 11,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-11-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 3,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-3-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 4,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-4-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 5,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-5-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 8,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-8-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 9,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-9-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 13,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-13-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 18,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-18-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 20,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-20-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 3,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-3-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 9,
+      "cue": 3,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-9-3-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 12,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-12-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 12,
+      "cue": 3,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-12-3-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 13,
+      "cue": 3,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-13-3-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 16,
+      "cue": 6,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-16-6-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 19,
+      "cue": 2,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-19-2-1920.png"
+    },
+    {
+      "version": "final",
+      "page": 20,
+      "cue": 3,
+      "width": 1920,
+      "height": 1080,
+      "reusedCapture": true,
+      "file": ".build/qa/final-20-3-1920.png"
+    }
+  ],
+  "geometry": [
+    {
+      "page": 1,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 2,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 3,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 4,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 5,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 6,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 7,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 8,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 9,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 10,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 11,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 12,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 13,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 14,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 15,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 17,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 18,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 19,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 20,
+      "cue": 1,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 11,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 3,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 4,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 5,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 8,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 9,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 13,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 18,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 20,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 3,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 9,
+      "cue": 3,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 12,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 12,
+      "cue": 3,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 13,
+      "cue": 3,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 6,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 19,
+      "cue": 2,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 20,
+      "cue": 3,
+      "width": 1280,
+      "headingIssues": []
+    },
+    {
+      "page": 1,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 2,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 3,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 4,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 5,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 6,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 7,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 8,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 9,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 10,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 11,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 12,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 13,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 14,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 15,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 17,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 18,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 19,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 20,
+      "cue": 1,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 11,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 3,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 4,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 5,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 8,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 9,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 13,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 18,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 20,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 3,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 9,
+      "cue": 3,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 12,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 12,
+      "cue": 3,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 13,
+      "cue": 3,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 16,
+      "cue": 6,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 19,
+      "cue": 2,
+      "width": 1920,
+      "headingIssues": []
+    },
+    {
+      "page": 20,
+      "cue": 3,
+      "width": 1920,
+      "headingIssues": []
+    }
+  ],
+  "extractionComparisons": [
+    {
+      "scene": "technical",
+      "cue": 0,
+      "meanPixelDifference": 2.2836102033405956e-7
+    },
+    {
+      "scene": "symbol",
+      "cue": 0,
+      "meanPixelDifference": 0.0017410499500726216
+    },
+    {
+      "scene": "cover",
+      "cue": 0,
+      "meanPixelDifference": 2.4112654320987653e-8
+    },
+    {
+      "scene": "cover",
+      "cue": 1,
+      "meanPixelDifference": 2.4112654320987653e-8
+    },
+    {
+      "scene": "problem",
+      "cue": 0,
+      "meanPixelDifference": 1.2765522875816993e-8
+    },
+    {
+      "scene": "notes-evidence",
+      "cue": 0,
+      "meanPixelDifference": 0.0000018439088598402324
+    },
+    {
+      "scene": "notes-hypotheses",
+      "cue": 0,
+      "meanPixelDifference": 5.148760893246187e-7
+    },
+    {
+      "scene": "ai-complex",
+      "cue": 0,
+      "meanPixelDifference": 2.709127632534495e-7
+    },
+    {
+      "scene": "gurumi-intro",
+      "cue": 0,
+      "meanPixelDifference": 0.00021094459195715324
+    },
+    {
+      "scene": "gurumi-intro",
+      "cue": 1,
+      "meanPixelDifference": 7.0919571532316634e-9
+    },
+    {
+      "scene": "ecosystem",
+      "cue": 0,
+      "meanPixelDifference": 2.269426289034132e-8
+    },
+    {
+      "scene": "ecosystem",
+      "cue": 1,
+      "meanPixelDifference": 0.000003470803830791576
+    },
+    {
+      "scene": "ecosystem",
+      "cue": 2,
+      "meanPixelDifference": 0.00036792364515250545
+    },
+    {
+      "scene": "concept",
+      "cue": 0,
+      "meanPixelDifference": 0.0011449369099491649
+    },
+    {
+      "scene": "roles",
+      "cue": 0,
+      "meanPixelDifference": 0.00082147558097313
+    },
+    {
+      "scene": "roles",
+      "cue": 1,
+      "meanPixelDifference": 0.0014598921455156136
+    },
+    {
+      "scene": "demo",
+      "cue": 0,
+      "meanPixelDifference": 1.702069716775599e-8
+    },
+    {
+      "scene": "demo",
+      "cue": 1,
+      "meanPixelDifference": 1.8439088598402323e-8
+    },
+    {
+      "scene": "demo",
+      "cue": 2,
+      "meanPixelDifference": 1.702069716775599e-8
+    },
+    {
+      "scene": "routing-why",
+      "cue": 0,
+      "meanPixelDifference": 0
+    },
+    {
+      "scene": "routing-why",
+      "cue": 1,
+      "meanPixelDifference": 0
+    },
+    {
+      "scene": "routing-why",
+      "cue": 2,
+      "meanPixelDifference": 0
+    },
+    {
+      "scene": "architecture",
+      "cue": 0,
+      "meanPixelDifference": 0.00014679925789760348
+    },
+    {
+      "scene": "research",
+      "cue": 0,
+      "meanPixelDifference": 1.4183914306463327e-8
+    },
+    {
+      "scene": "meaning",
+      "cue": 0,
+      "meanPixelDifference": 2.4112654320987653e-8
+    },
+    {
+      "scene": "meaning",
+      "cue": 1,
+      "meanPixelDifference": 2.4112654320987653e-8
+    },
+    {
+      "scene": "meaning",
+      "cue": 2,
+      "meanPixelDifference": 0.000002120495188816267
+    },
+    {
+      "scene": "meaning",
+      "cue": 3,
+      "meanPixelDifference": 1.5602305737109658e-8
+    },
+    {
+      "scene": "meaning",
+      "cue": 4,
+      "meanPixelDifference": 0.000042541814179375454
+    },
+    {
+      "scene": "meaning",
+      "cue": 5,
+      "meanPixelDifference": 3.1204611474219316e-8
+    },
+    {
+      "scene": "production",
+      "cue": 0,
+      "meanPixelDifference": 1.8439088598402323e-8
+    },
+    {
+      "scene": "closing-position",
+      "cue": 0,
+      "meanPixelDifference": 9.928740014524328e-9
+    },
+    {
+      "scene": "closing-position",
+      "cue": 1,
+      "meanPixelDifference": 2.5531045751633985e-8
+    },
+    {
+      "scene": "closing-media",
+      "cue": 0,
+      "meanPixelDifference": 0.00023576644199346406
+    },
+    {
+      "scene": "closing-media",
+      "cue": 1,
+      "meanPixelDifference": 0.0006994343454974582
+    },
+    {
+      "scene": "feedback",
+      "cue": 0,
+      "meanPixelDifference": 8.794026870007262e-8
+    },
+    {
+      "scene": "feedback",
+      "cue": 1,
+      "meanPixelDifference": 7.375635439360929e-8
+    },
+    {
+      "scene": "feedback",
+      "cue": 2,
+      "meanPixelDifference": 0.0000889714392701525
+    }
+  ],
+  "interaction": [
+    {
+      "test": "single-scene",
+      "scene": "technical",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "symbol",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "cover",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "problem",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "notes-evidence",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "notes-hypotheses",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "ai-complex",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "gurumi-intro",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "ecosystem",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "concept",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "roles",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "demo",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "routing-why",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "architecture",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "research",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "meaning",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "production",
+      "pages": 1,
+      "pass": true
+    },
+    {
+      "test": "single-scene",
+      "scene": "closing-position",
+      "pages": 3,
+      "pass": true
+    },
+    {
+      "test": "click-target",
+      "selector": ".roles h2",
+      "pass": true
+    },
+    {
+      "test": "click-target",
+      "selector": ".roles .role-card",
+      "pass": true
+    },
+    {
+      "test": "click-target",
+      "selector": "#deck",
+      "pass": true
+    },
+    {
+      "test": "duplicate-next-and-previous-cancellation",
+      "pass": true
+    },
+    {
+      "test": "reduced-motion-current-cue",
+      "pass": true
+    },
+    {
+      "test": "closing-group-reorder-and-following-scene",
+      "pass": true
+    },
+    {
+      "test": "clipboard-denial-manual-copy-fallback",
+      "pass": true
+    },
+    {
+      "test": "file-gallery-copy-ui-select-reorder-html-zip",
+      "pass": true
+    }
+  ],
+  "offline": [
+    {
+      "id": "early-a",
+      "network": "HTTP(S) blocked",
+      "brokenImages": 0,
+      "hashMatches": true
+    },
+    {
+      "id": "early-b",
+      "network": "HTTP(S) blocked",
+      "brokenImages": 0,
+      "hashMatches": true
+    },
+    {
+      "id": "final",
+      "network": "HTTP(S) blocked",
+      "brokenImages": 0,
+      "hashMatches": true
+    },
+    {
+      "id": "gallery-selected-html",
+      "network": "HTTP(S) blocked",
+      "pages": 5,
+      "pass": true
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/openai-logo.png",
+      "bytes": 1841,
+      "width": 48,
+      "height": 48,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "8d5575ee667ff715cd3e3074d5296edc68d5aadd89720d203e13131b68b22a04"
+    },
+    {
+      "file": "assets/youtube-logo.png",
+      "bytes": 3369,
+      "width": 180,
+      "height": 180,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "d0264e8e58d90d3be1aae1a4d036393f4d6829ad186e8722950f87c367bef195"
+    },
+    {
+      "file": "assets/netflix-logo.png",
+      "bytes": 8582,
+      "width": 1198,
+      "height": 627,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "be8dc24c36708767813e4130bf56350a1c4abdf64579f83928580a147398ee5b"
+    },
+    {
+      "file": "assets/adobe-logo.svg",
+      "bytes": 1234,
+      "width": 65,
+      "height": 35,
+      "format": "svg",
+      "mime": "image/svg+xml",
+      "sha256": "54213e56d564e8174ec2de6aa5f91907aebadc38215f4c3597d1e9b83cce127a"
+    },
+    {
+      "file": "assets/figma-logo.svg",
+      "bytes": 646,
+      "width": 1024,
+      "height": 1280,
+      "format": "svg",
+      "mime": "image/svg+xml",
+      "sha256": "9798b710e015c7f3fa6101779e323568d6a5a022651d427021262ce850467b07"
+    },
+    {
+      "file": "assets/cat-poses.png",
+      "bytes": 354085,
+      "width": 2172,
+      "height": 724,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "81840fa3be5aac4740cdeed35f786e82ccef045ba8aae157c87f9f2db2e13caa"
+    },
+    {
+      "file": "assets/problem-notes-original.png",
+      "bytes": 189737,
+      "width": 718,
+      "height": 1201,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "2bb8e9f0be0f8c407c5c02356c069fbe098b132d70be931aab4e6c4b622d8719"
+    },
+    {
+      "file": "assets/01-pet-selection.png",
+      "bytes": 1072970,
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "97590d0db661fe69112119e7afe00166e74369f90a6dd47214d62a0e578ba098"
+    },
+    {
+      "file": "assets/role-pets-v1.png",
+      "bytes": 696903,
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "f3580eb7423967515af339a5e480a4326ac9f433b144b154a5329b638503e795"
+    },
+    {
+      "file": "assets/pet-accessories-v1.png",
+      "bytes": 542416,
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "d900823922ff11d8694157a08ef82bb8f5b76d7b703d5a18e68663047f6f8467"
+    },
+    {
+      "file": "assets/gurumi-motions.png",
+      "bytes": 73173,
+      "width": 256,
+      "height": 320,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "c4e317d5734db10b1fc5557a4a883c26cbcca900511a47efa0d5e284f5ef669f"
+    },
+    {
+      "file": "assets/github-logo.svg",
+      "bytes": 1559,
+      "width": 98,
+      "height": 96,
+      "format": "svg",
+      "mime": "image/svg+xml",
+      "sha256": "693d7abe6f899646cc2e96856723b45e95f71885a54910b2749f6decdf7e1ee1"
+    },
+    {
+      "file": "assets/ponytail-developer.png",
+      "bytes": 1036960,
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "d7fef865be68ecbc3f63a12f976e588bc9f8ed316195126fcb5334b6c164310e"
+    },
+    {
+      "file": "assets/gurumi-photo-closeup.webp",
+      "bytes": 398320,
+      "width": 1350,
+      "height": 1800,
+      "format": "webp",
+      "mime": "image/webp",
+      "sha256": "4f18213d1f17466139bc2b865646ade811562ac0bc8a62db57d97664d0911734"
+    },
+    {
+      "file": "assets/gurumi-photo-bed.webp",
+      "bytes": 476140,
+      "width": 1350,
+      "height": 1800,
+      "format": "webp",
+      "mime": "image/webp",
+      "sha256": "aa42950493a3cdcc0a525693568049ed2f20ec3a4f4010d7f3c2a16d1465b5da"
+    },
+    {
+      "file": "assets/gurumi-photo.webp",
+      "bytes": 200708,
+      "width": 1350,
+      "height": 1800,
+      "format": "webp",
+      "mime": "image/webp",
+      "sha256": "3f7eef717da33cd06f00a5dd9a01d2c6e6e9450d49ae597210081772aff1dbdf"
+    },
+    {
+      "file": "assets/gurumi-photo-toy.webp",
+      "bytes": 238166,
+      "width": 1350,
+      "height": 1800,
+      "format": "webp",
+      "mime": "image/webp",
+      "sha256": "db6c868c0ce5cc0988cce6eb3e8d654295ca57341e9ab4b4e25006e550970ab5"
+    },
+    {
+      "file": "assets/mcp-logo.svg",
+      "bytes": 16772,
+      "width": 1338,
+      "height": 195,
+      "format": "svg",
+      "mime": "image/svg+xml",
+      "sha256": "3163a85f9db4b98c3b5af846ea284b3296295dbd51a138b2e77ebd438342e902"
+    },
+    {
+      "file": "assets/notion-logo.ico",
+      "bytes": 32038,
+      "width": 16,
+      "height": 16,
+      "format": "ico",
+      "mime": "image/x-icon",
+      "sha256": "541fc85f92e348bcf46f70944b95fd558d16adbc5a0698eaa1239dccd8c9e455"
+    },
+    {
+      "file": "assets/slack-logo.png",
+      "bytes": 11567,
+      "width": 400,
+      "height": 400,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "cfd9f050bf26ea547af438722c5a93be002c721f0f32a3c996595eab7af1b36d"
+    },
+    {
+      "file": "assets/supabase-logo.svg",
+      "bytes": 1109,
+      "width": 109,
+      "height": 113,
+      "format": "svg",
+      "mime": "image/svg+xml",
+      "sha256": "e4845a35f37d7b05435faccddde36bacadd64b27d29a08d4d0944a5934c172e1"
+    },
+    {
+      "file": "assets/linear-logo.ico",
+      "bytes": 15086,
+      "width": 16,
+      "height": 16,
+      "format": "ico",
+      "mime": "image/x-icon",
+      "sha256": "0e05c8b9f5a4a1b7ef3083d57df0184185e748978f93ca5bd94509280f0e918e"
+    },
+    {
+      "file": "assets/stripe-logo.ico",
+      "bytes": 15086,
+      "width": 48,
+      "height": 48,
+      "format": "ico",
+      "mime": "image/x-icon",
+      "sha256": "50630726cbd85299c64dbb510f051e5d70013abcd620fa2b23be82e618140150"
+    },
+    {
+      "file": "assets/cloudflare-logo.ico",
+      "bytes": 908,
+      "width": 99,
+      "height": 96,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "5414bc6e4b3f6e10f99b5d37abf4420da4dcaece66f8f2c08e090e87267adbc5"
+    },
+    {
+      "file": "assets/sentry-logo.png",
+      "bytes": 5992,
+      "width": 500,
+      "height": 500,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "ec77d9fb80fb90d9cec19b8501dcf6f42d5d4a04715d135890e55de2692f49d4"
+    },
+    {
+      "file": "assets/playwright-logo.svg",
+      "bytes": 5033,
+      "width": 400,
+      "height": 400,
+      "format": "svg",
+      "mime": "image/svg+xml",
+      "sha256": "6b0a4367bdeab10995bc239278f04c68c10e48adbec15e799e01909a0d66dcb9"
+    },
+    {
+      "file": "assets/02-pet-settings.png",
+      "bytes": 1036298,
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "4aadb89d0608eeef9755ca52ad8db63ffbc90af0824792cae995002711aaf841"
+    },
+    {
+      "file": "assets/03-plan-confirmation.png",
+      "bytes": 1035693,
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "7db0eb48e5c88e65f383ca39b4616de3d3c9717a4dd7149ef9dfe0da02781f9a"
+    },
+    {
+      "file": "assets/04-execution.png",
+      "bytes": 1062658,
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "90a91b17f7777f6947a92ff86fcec9f4d2714ff61f39c74c6e677506764afbf3"
+    },
+    {
+      "file": "assets/typesafe-logo.png",
+      "bytes": 4266,
+      "width": 370,
+      "height": 82,
+      "format": "png",
+      "mime": "image/png",
+      "sha256": "47af839ce828f21065891183f0e8b319116dbcc5cf4661b3e0dbbdedd5d056f3"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "status": "passed",
+  "limitations": [
+    "Chromium 기반 자동 검사이며 모든 OS·브라우저 실기 검수가 아닙니다.",
+    "자동 캡처만으로 의미·미적 품질을 판정하지 않습니다. 수동 확인 결과는 summary.md에 기록합니다.",
+    "시스템 폰트가 다른 PC에서는 글꼴이 달라질 수 있습니다."
+  ]
+}

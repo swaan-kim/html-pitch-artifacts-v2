@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reusable HTML Pitch Deck</title>
+  <link rel="stylesheet" href="theme.css">
+</head>
+<body>
+  <main class="artifact" data-artifact-kind="deck" aria-label="Pitch deck"></main>
+
+  <nav class="artifact-nav" data-qa-ignore aria-label="Slide navigation">
+    <button type="button" data-action="previous" aria-label="Previous page">←</button>
+    <span data-page-status>1 / 8</span>
+    <button type="button" data-action="next" aria-label="Next page">→</button>
+  </nav>
+
+  <script src="deck-config.js"></script>
+  <script src="content/01-problem.js"></script>
+  <script src="content/02-solution.js"></script>
+  <script src="content/03-product.js"></script>
+  <script src="content/04-business.js"></script>
+  <script src="content/05-technical.js"></script>
+  <script src="content/06-close.js"></script>
+  <script src="runtime.js"></script>
+</body>
+</html>

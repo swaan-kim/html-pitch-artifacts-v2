@@ -1,0 +1,118 @@
+{
+  "checkedAt": "2026-09-27",
+  "skillsSource": "https://www.skills.sh/",
+  "skillMetric": "Installs; installation telemetry, not usage rate or unique users",
+  "skills": [
+    {
+      "name": "find-skills",
+      "repo": "vercel-labs/skills",
+      "installs": "3.6M",
+      "url": "https://www.skills.sh/vercel-labs/skills/find-skills"
+    },
+    {
+      "name": "agent-browser",
+      "repo": "vercel-labs/agent-browser",
+      "installs": "948.9K",
+      "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser"
+    },
+    {
+      "name": "frontend-design",
+      "repo": "anthropics/skills",
+      "installs": "925.3K",
+      "url": "https://www.skills.sh/anthropics/skills/frontend-design"
+    },
+    {
+      "name": "vercel-react-best-practices",
+      "repo": "vercel-labs/agent-skills",
+      "installs": "745.6K",
+      "url": "https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices"
+    },
+    {
+      "name": "web-design-guidelines",
+      "repo": "vercel-labs/agent-skills",
+      "installs": "669.2K",
+      "url": "https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines"
+    },
+    {
+      "name": "remotion-best-practices",
+      "repo": "remotion-dev/skills",
+      "installs": "544.9K",
+      "url": "https://www.skills.sh/remotion-dev/skills/remotion-best-practices"
+    },
+    {
+      "name": "supabase-postgres-best-practices",
+      "repo": "supabase/agent-skills",
+      "installs": "418.2K",
+      "url": "https://www.skills.sh/supabase/agent-skills/supabase-postgres-best-practices"
+    },
+    {
+      "name": "skill-creator",
+      "repo": "anthropics/skills",
+      "installs": "391.5K",
+      "url": "https://www.skills.sh/anthropics/skills/skill-creator"
+    },
+    {
+      "name": "brainstorming",
+      "repo": "obra/superpowers",
+      "installs": "377.0K",
+      "url": "https://www.skills.sh/obra/superpowers/brainstorming"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "installs": "371.8K",
+      "url": "https://www.skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max"
+    },
+    {
+      "name": "systematic-debugging",
+      "repo": "obra/superpowers",
+      "installs": "272.3K",
+      "url": "https://www.skills.sh/obra/superpowers/systematic-debugging"
+    },
+    {
+      "name": "writing-plans",
+      "repo": "obra/superpowers",
+      "installs": "260.0K",
+      "url": "https://www.skills.sh/obra/superpowers/writing-plans"
+    }
+  ],
+  "mcpMetric": "GitHub repository stars, not installations or usage",
+  "mcp": [
+    {
+      "repo": "microsoft/playwright-mcp",
+      "stars": 37591,
+      "url": "https://github.com/microsoft/playwright-mcp",
+      "checkedAt": "2026-09-26T18:12:13.579Z"
+    },
+    {
+      "repo": "makenotion/notion-mcp-server",
+      "stars": 4645,
+      "url": "https://github.com/makenotion/notion-mcp-server",
+      "checkedAt": "2026-09-26T18:12:13.596Z"
+    },
+    {
+      "repo": "cloudflare/mcp-server-cloudflare",
+      "stars": 4313,
+      "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+      "checkedAt": "2026-09-26T18:12:13.600Z"
+    },
+    {
+      "repo": "github/github-mcp-server",
+      "stars": 33218,
+      "url": "https://github.com/github/github-mcp-server",
+      "checkedAt": "2026-09-26T18:12:13.609Z"
+    },
+    {
+      "repo": "getsentry/sentry-mcp",
+      "stars": 863,
+      "url": "https://github.com/getsentry/sentry-mcp",
+      "checkedAt": "2026-09-26T18:12:13.616Z"
+    },
+    {
+      "repo": "supabase/mcp",
+      "stars": 2924,
+      "url": "https://github.com/supabase/mcp",
+      "checkedAt": "2026-09-26T18:12:13.860Z"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A4 Pitch One-pager Template</title>
+  <style>
+    :root { --page-width: 794px; --page-height: 1123px; --ink: #111827; --accent: #6d5dfc; font-family: Arial, sans-serif; }
+    * { box-sizing: border-box; }
+    html, body { width: 100%; min-height: 100%; margin: 0; background: #d7dbe4; }
+    body { display: grid; place-items: center; }
+    .artifact-page { position: relative; width: var(--page-width); height: var(--page-height); overflow: hidden; padding: 64px; background: #fff; color: var(--ink); }
+    .eyebrow { color: var(--accent); font-size: 16px; font-weight: 900; letter-spacing: .12em; }
+    h1 { max-width: 620px; margin: 30px 0 0; font-size: 55px; line-height: 1.03; letter-spacing: -.045em; }
+    .beats { display: grid; gap: 22px; margin-top: 55px; }
+    .beat { min-height: 225px; padding: 30px 34px; border-top: 6px solid var(--accent); background: #f5f3ff; }
+    .beat strong { display: block; color: var(--accent); font-size: 74px; letter-spacing: -.055em; }
+    .beat span { display: block; margin-top: 10px; font-size: 24px; font-weight: 800; }
+    .hero { opacity: 0; transform: translateY(18px); animation: enter .65s ease forwards; }
+    @keyframes enter { to { opacity: 1; transform: none; } }
+    html[data-artifact-export="true"] body { display: block; width: var(--page-width); height: var(--page-height); overflow: visible; }
+  </style>
+</head>
+<body>
+  <main class="artifact" data-artifact-kind="onepager">
+    <section class="artifact-page" data-page-id="onepager" data-page-number="1">
+      <div class="eyebrow">ONE-PAGE PITCH</div>
+      <div class="hero">
+        <h1 data-qa-fit>Make three proof points land immediately.</h1>
+        <div class="beats">
+          <div class="beat" data-qa-fit><strong>01</strong><span>Problem number</span></div>
+          <div class="beat" data-qa-fit><strong>02</strong><span>Product or UI proof</span></div>
+          <div class="beat" data-qa-fit><strong>03</strong><span>Market or execution proof</span></div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <script>
+    window.prepareForExport = async function prepareForExport() {
+      document.documentElement.dataset.artifactExport = 'true';
+      await new Promise((resolve) => requestAnimationFrame(() => requestAnimationFrame(resolve)));
+      for (const animation of document.getAnimations()) {
+        try { animation.finish(); } catch { animation.cancel(); }
+      }
+      await document.fonts.ready;
+    };
+  </script>
+</body>
+</html>

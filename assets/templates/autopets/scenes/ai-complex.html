@@ -1,0 +1,11 @@
+<section class="slide ai-complex" id="scene-ai-complex" data-scene-id="ai-complex" data-steps="0" data-title="AI를 잘 쓰기 위한 기술과 설정" aria-label="AI를 잘 쓰기 위한 기술과 설정" aria-hidden="true" inert>
+<div class="ai-complex-heading"><h2>AI를 잘 쓰려면 알아야 하는 것들</h2><span>CONTEXT → PLAN → ROUTE → TOOLS → VERIFY</span></div>
+<div class="ai-terms"><article><h3><span>01</span>CONTEXT COMPACTION</h3><p>대화가 길어질수록 목표·제약·결정·남은 작업을 다음 실행에 필요한 상태로 압축한다. 요약에서 빠진 조건은 원문과 대조한다.</p><pre>context_window → retained_state
+constraints / decisions / open_tasks</pre></article><article><h3><span>02</span>PLAN MODE</h3><p>요구사항과 불확실한 조건을 확인하고 실행 계획을 합의한다. 계획을 써 달라는 지시와 실제 실행을 제한하는 모드는 구분한다.</p><pre>clarify → plan → user_confirmation
+execution_gate = awaiting_approval</pre></article><article><h3><span>03</span>MODEL GUIDANCE · ROUTING</h3><p>작업의 종류와 난이도, 속도·사용 부담을 고려해 모델을 선택한다. 계획용과 실행용 설정을 나누고 다음 실행의 적용값을 확인한다.</p><pre>task_profile → model_selection
+planned_setting ≟ effective_setting</pre></article><article><h3><span>04</span>REASONING EFFORT</h3><p>모델 종류와 추론 강도는 별도의 설정이다. 지원되는 조합 안에서 문제를 검토하는 강도를 정하고, 작업 결과로 적합성을 확인한다.</p><pre>model ≠ reasoning_effort
+light / medium / high</pre></article><article><h3><span>05</span>SUBAGENTS</h3><p>독립적으로 맡길 수 있는 작업을 분리한다. 각 작업의 범위와 필요한 맥락, 결과를 돌려받을 형식을 지정하고 상위 작업에서 합친다.</p><pre>delegate(scoped_task, context)
+collect → compare → integrate</pre></article><article><h3><span>06</span>AGENT HARNESS</h3><p>모델 호출 바깥에서 실행 단계, 도구, 상태와 권한을 관리한다. 작업의 시작·중단·재개·종료와 에이전트 사이의 관계를 연결한다.</p><pre>runtime / state / tool_permissions
+parent_task ↔ child_tasks</pre></article><article><h3><span>07</span>SKILLS · MCP</h3><p>스킬은 반복 활용할 절차와 지침을 묶는다. MCP는 외부 도구와 데이터에 연결하는 규약이며 연결 여부와 실제 사용은 구분한다.</p><pre>skill = reusable_workflow
+MCP = tools + resources + protocol</pre></article><article><h3><span>08</span>AGENTS.md</h3><p>프로젝트에서 따라야 할 작업 방식과 검증 기준을 문서화한다. 적용 범위의 지침을 읽고 현재 요청과 함께 작업 조건을 정리한다.</p><pre>project_guidance + current_request
+scope / conventions / validation</pre></article></div></section>

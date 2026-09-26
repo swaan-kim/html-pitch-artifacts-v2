@@ -1,0 +1,43 @@
+{
+  "selectedRebuild": {
+    "status": "passed",
+    "bytes": 2407394,
+    "sha256": "74612b742a8eb744e4654e1532a70612612d110bce68984e87b4730cdded4810"
+  },
+  "finalRebuild": {
+    "status": "passed",
+    "sha256": "47980da0bbdab2da44c031e03168ea690139e3bd15a02cae5e5fe73435174b90"
+  },
+  "artifacts": [
+    {
+      "file": "AutoPets-early-a.html",
+      "bytes": 7074651,
+      "sha256": "69ff93842ebc61658ffbd025e7fb1633807b804b61cdea9f9eb665de3366ec36"
+    },
+    {
+      "file": "AutoPets-early-b.html",
+      "bytes": 9480519,
+      "sha256": "1f2de57eac8afa15b8c84aab9caebdf16dd13d0bac0bd3ae1f6e813406a347af"
+    },
+    {
+      "file": "AutoPets-final-editable.zip",
+      "bytes": 16954276,
+      "sha256": "8a17064326cb4b8b22f3bc3a6b882656a4dacd30cfcc1b6e9c30a49a1bc9e585"
+    },
+    {
+      "file": "AutoPets-final.html",
+      "bytes": 11780311,
+      "sha256": "47980da0bbdab2da44c031e03168ea690139e3bd15a02cae5e5fe73435174b90"
+    },
+    {
+      "file": "html-pitch-artifacts-v2-skill.zip",
+      "bytes": 8520686,
+      "sha256": "57e11c3b6659f3c31a57207238034b38e0b1ef0f628377097e5173de15815b3f"
+    },
+    {
+      "file": "html-pitch-gallery-offline.zip",
+      "bytes": 30151320,
+      "sha256": "eab581053f4163a2555ef57cba3b2e9be46c1fd7d2186c2fde4214231a8ead2d"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "html-pitch-artifacts-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/v2.test.mjs",
+    "build": "node scripts/build_gallery.mjs",
+    "qa": "node scripts/qa.mjs",
+    "package": "node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1",
+    "sharp": "0.35.4",
+    "jszip": "3.10.1"
+  }
+}

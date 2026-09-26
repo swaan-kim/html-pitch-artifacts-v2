@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+    html, body { margin: 0; font-family: Arial, sans-serif; }
+    .artifact-page { position: relative; display: block; width: 800px; height: 450px; overflow: hidden; }
+    h1 { width: 120px; height: 30px; overflow: hidden; white-space: nowrap; }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="artifact-page" data-page-id="broken">
+      <h1 id="duplicate">This title is deliberately clipped by the fixture.</h1>
+      <span id="duplicate" data-artifact-icon>↻</span>
+    </section>
+  </main>
+  <script>
+    window.prepareForExport = async () => { document.documentElement.dataset.artifactExport = 'true'; };
+  </script>
+</body>
+</html>

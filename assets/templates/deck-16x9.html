@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HTML Pitch Deck Template</title>
+  <style>
+    :root {
+      --page-width: 1600px;
+      --page-height: 900px;
+      --ink: #111827;
+      --paper: #f8fafc;
+      --accent: #6d5dfc;
+      font-family: Arial, sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; margin: 0; background: #05070d; overflow: hidden; }
+    body { display: grid; place-items: center; }
+    .artifact { position: relative; width: min(100vw, calc(100vh * 16 / 9)); aspect-ratio: 16 / 9; }
+    .artifact-page {
+      position: absolute; inset: 0; display: none; overflow: hidden;
+      padding: 72px 84px; color: var(--ink); background: var(--paper);
+    }
+    .artifact-page.is-active { display: block; }
+    .eyebrow { color: var(--accent); font-size: 20px; font-weight: 800; letter-spacing: .12em; }
+    h1, h2, p { margin: 0; }
+    h1 { max-width: 1100px; margin-top: 95px; font-size: 96px; line-height: 1.02; letter-spacing: -.055em; }
+    h2 { max-width: 1080px; margin-top: 72px; font-size: 72px; line-height: 1.06; letter-spacing: -.045em; }
+    p { max-width: 920px; margin-top: 34px; color: #475569; font-size: 31px; line-height: 1.45; }
+    .stat { margin-top: 58px; color: var(--accent); font-size: 150px; font-weight: 900; letter-spacing: -.07em; }
+    .hero { opacity: 0; transform: translateY(28px); animation: enter .75s cubic-bezier(.2,.8,.2,1) .1s forwards; }
+    .mark { position: absolute; right: 80px; bottom: 70px; width: 110px; color: var(--accent); }
+    .page-number { position: absolute; top: 72px; right: 84px; color: #94a3b8; font-size: 20px; font-weight: 700; }
+    .artifact-nav { position: fixed; right: 20px; bottom: 20px; display: flex; gap: 8px; z-index: 20; }
+    .artifact-nav button { border: 0; border-radius: 999px; padding: 10px 16px; background: #fff; font-weight: 800; }
+    @keyframes enter { to { opacity: 1; transform: translateY(0); } }
+
+    html[data-artifact-export="true"] body { display: block; width: var(--page-width); height: auto; overflow: visible; }
+    html[data-artifact-export="true"] .artifact { width: var(--page-width); height: auto; aspect-ratio: auto; }
+    html[data-artifact-export="true"] .artifact-page {
+      position: relative; display: block; width: var(--page-width); height: var(--page-height);
+    }
+    html[data-artifact-export="true"] .artifact-nav { display: none !important; }
+  </style>
+</head>
+<body>
+  <main class="artifact" data-artifact-kind="deck" aria-label="Pitch deck">
+    <section class="artifact-page is-active" data-page-id="cover" data-page-number="1">
+      <div class="eyebrow">PROJECT NAME</div>
+      <div class="page-number">1 / 3</div>
+      <div class="hero">
+        <h1 data-qa-fit>One clear claim belongs on each page.</h1>
+        <p>Replace content and visual assets without changing the export contract.</p>
+      </div>
+      <svg class="mark" data-artifact-icon data-qa-fit viewBox="0 0 64 64" aria-label="Project mark">
+        <circle cx="32" cy="32" r="28" fill="currentColor" opacity=".16"/>
+        <path d="M18 34 28 44 47 20" fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </section>
+
+    <section class="artifact-page" data-page-id="proof" data-page-number="2">
+      <div class="eyebrow">PRIMARY PROOF</div>
+      <div class="page-number">2 / 3</div>
+      <div class="hero">
+        <h2 data-qa-fit>Let one number carry the argument.</h2>
+        <div class="stat" data-count="48" data-suffix="%">0%</div>
+      </div>
+    </section>
+
+    <section class="artifact-page" data-page-id="decision" data-page-number="3">
+      <div class="eyebrow">NEXT DECISION</div>
+      <div class="page-number">3 / 3</div>
+      <div class="hero">
+        <h2 data-qa-fit>Close by resolving the opening claim.</h2>
+        <p>State the decision, action, or implication the audience should leave with.</p>
+      </div>
+    </section>
+  </main>
+
+  <nav class="artifact-nav" data-qa-ignore aria-label="Slide navigation">
+    <button type="button" id="previous">Previous</button>
+    <button type="button" id="next">Next</button>
+  </nav>
+
+  <script>
+    const pages = [...document.querySelectorAll('.artifact-page')];
+    let current = 0;
+
+    function show(index) {
+      current = Math.max(0, Math.min(pages.length - 1, index));
+      pages.forEach((page, pageIndex) => page.classList.toggle('is-active', pageIndex === current));
+    }
+
+    document.getElementById('previous').addEventListener('click', () => show(current - 1));
+    document.getElementById('next').addEventListener('click', () => show(current + 1));
+
+    window.prepareForExport = async function prepareForExport() {
+      document.documentElement.dataset.artifactExport = 'true';
+      document.querySelectorAll('[data-count]').forEach((element) => {
+        const value = Number(element.dataset.count);
+        const decimals = Number(element.dataset.decimals || 0);
+        element.textContent = `${value.toFixed(decimals)}${element.dataset.suffix || ''}`;
+      });
+      await new Promise((resolve) => requestAnimationFrame(() => requestAnimationFrame(resolve)));
+      for (const animation of document.getAnimations()) {
+        const iterations = animation.effect?.getTiming?.().iterations;
+        if (Number.isFinite(iterations)) {
+          try { animation.finish(); } catch { animation.cancel(); }
+        } else {
+          animation.cancel();
+        }
+      }
+      await document.fonts.ready;
+      await Promise.all([...document.images].map((image) => image.decode?.().catch(() => {})));
+    };
+  </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+* text=auto eol=lf
+examples/versions/*.html -text
+examples/final-source/* -text
+assets/templates/autopets/assets/* -text
+*.png -text
+*.jpg -text
+*.webp -text
+*.ico -text
+*.zip -text

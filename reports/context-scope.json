@@ -1,0 +1,24 @@
+{
+  "measurement": "UTF-8 source bytes, not billed tokens or a model execution benchmark",
+  "fullEditableSourceBytes": 100545,
+  "standaloneBytes": 11780311,
+  "tasks": [
+    {
+      "task": "문구 수정",
+      "scopedBytes": 3369
+    },
+    {
+      "task": "사진 교체",
+      "scopedBytes": 8978
+    },
+    {
+      "task": "새 장면 추가",
+      "scopedBytes": 12387
+    },
+    {
+      "task": "장면 재조합",
+      "scopedBytes": 2794
+    }
+  ],
+  "actualTokenUsage": null
+}

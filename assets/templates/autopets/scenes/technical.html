@@ -1,0 +1,19 @@
+<section class="slide technical" id="scene-technical" data-scene-id="technical" data-steps="0" data-title="Ponytail: 기술 설명" aria-label="Ponytail: 기술 설명">
+  <div class="technical-heading"><h1>PONYTAIL</h1><img class="brand-asset " src="assets/github-logo.svg" alt="GitHub"></div>
+  <div class="technical-document">
+    <div><h3>01 / REQUIREMENT REDUCTION</h3><p>구현에 앞서 요구사항의 필수성과 실제 호출 경로를 확인한다. 요청을 충족하지 않는 부가 기능, 가정에 의존한 확장 지점, 사용되지 않는 일반화는 생성 범위에서 제외한다. YAGNI를 적용하되 기존 동작과 명시된 제약을 먼저 이해한다.</p>
+    <h3>02 / REUSE RESOLUTION</h3><p>기존 코드베이스의 동등한 동작을 탐색하고 재사용 가능성을 판단한다. 표준 라이브러리, 네이티브 플랫폼 기능, 이미 설치된 의존성을 순서대로 검토한 뒤, 요구를 충족하는 가장 작은 구현을 선택한다.</p>
+    <pre>resolve(requirement)
+  → inspect_existing_implementation
+  → evaluate_standard_library
+  → prefer_native_platform_capability
+  → inspect_installed_dependencies
+  → implement_minimum_required_behavior</pre></div>
+    <div><h3>03 / CONSTRAINT-PRESERVING SIMPLIFICATION</h3><p>중복 추상화와 불필요한 래퍼를 제거하되 신뢰 경계의 입력 검증, 데이터 손실 처리, 보안 조건과 접근성은 유지한다. 코드의 길이 자체를 최소화하는 것이 아니라 필요한 동작을 가장 간결하게 표현한다.</p>
+    <h3>04 / AGENTIC EVALUATION</h3><p>스킬을 적용하지 않은 동일 에이전트와 비교한다. 응답의 설명 길이 대신 저장소에 남긴 코드 변경량을 측정하고, 토큰 사용량과 실행 비용, 소요 시간을 구분한다. 과잉 구현의 여지가 적은 작업에는 감소 효과가 제한적일 수 있다.</p>
+    <pre>baseline: same agent / no skill
+context: isolated workspace per run
+measure: code diff + tokens + cost + time
+invariant: preserve required safeguards
+interpretation: task-dependent efficiency</pre></div>
+  </div></section>
