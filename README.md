@@ -2,7 +2,7 @@
 
 **사용자 요청 → 실제 화면 변화 → 재사용 프롬프트**를 연결하는 HTML 발표 제작 스킬과 예시 갤러리입니다.
 
-[웹 갤러리 열기](https://swaan-kim.github.io/html-pitch-artifacts-v2/) · [v2.0.0 다운로드](https://github.com/swaan-kim/html-pitch-artifacts-v2/releases/tag/v2.0.0)
+[웹 갤러리 열기](https://swaan-kim.github.io/html-pitch-artifacts-v2/) · [프롬프트 라이브러리](https://swaan-kim.github.io/html-pitch-artifacts-v2/prompt-library.html) · [v2.0.0 다운로드](https://github.com/swaan-kim/html-pitch-artifacts-v2/releases/tag/v2.0.0)
 
 ## 갤러리에서 시작
 1. 세 보관본 또는 수정 기록을 살펴봅니다. 과거 화면이 없는 항목은 그 사실을 표시합니다.
@@ -11,6 +11,17 @@
 4. 독립 HTML을 내려받아 인터넷 없이 발표하거나 편집 ZIP으로 수정합니다.
 
 다운로드한 저장소의 index.html도 로컬에서 열 수 있습니다. 미리보기와 내보내기에 CDN·API 서버가 필요하지 않습니다. 마지막 3장은 요소가 이어지므로 하나의 묶음입니다.
+
+## 누적 제작 지시와 복사용 프롬프트
+
+2026년 9월 30일에 이 대화의 제작 지시와 기존 25건 사례집을 재정리했습니다. [검색 화면](prompt-library.html)에서 12개 분류의 64개 지침, 16개 복사용 프롬프트, 10개 수정 관계를 확인할 수 있습니다. 36개 출처 묶음의 발췌와 일반화한 문장은 구분됩니다. 최근 Figma 블록 이동과 디자이너 구르미 요청도 포함합니다.
+
+- [핵심 제작 원칙](references/presentation-style.md): 로고 플레이·문구 축소·연속 전환·예외와 적용 범위.
+- [상황별 프롬프트](references/presentation-prompt-pack.md): 새 발표 시작부터 부분 수정·용량 검수까지.
+- [전체 요청 목록](references/presentation-request-catalog.md): 원문 발췌·재사용 지침·수정 관계·프로젝트 전용 값.
+- [구조화 데이터](data/presentation-preferences.json): 출처와 지침의 연결을 유지하는 JSON.
+
+검색 화면은 데이터가 포함된 단일 HTML로 동작합니다. 기존 v2.0.0에 추가한 문서·검색 자료이며, 공개 보관본이나 발표 원본을 덮어쓰지 않습니다. [프롬프트 자료 ZIP](downloads/presentation-prompts-2026-09-30.zip)도 제공합니다. v2.0.0 릴리스 파일은 당시 버전 그대로이며 최신 지침은 이 저장소와 프롬프트 라이브러리를 기준으로 합니다. 데이터 수정 후 `python scripts/build_prompt_library.py`로 목록·복사용 문서·검색 화면을 다시 생성합니다.
 
 ## 스킬 설치
 릴리스의 `html-pitch-artifacts-v2-skill.zip`을 풀어 폴더를 `~/.codex/skills/html-pitch-artifacts-v2`에 둡니다. 기존 동명 스킬이 있으면 먼저 비교·백업합니다. 다음 작업에서 `$html-pitch-artifacts-v2`를 호출합니다.

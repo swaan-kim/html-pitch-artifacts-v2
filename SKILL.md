@@ -26,6 +26,7 @@ Preserve the user's story, audience, duration and reference style. Produce the r
 
 ## Load only relevant references
 
+- When reusing this user's visual presentation style, read [presentation-style](references/presentation-style.md): minimal copy, real logo play, continuous object transitions and presentation-first interaction. Treat it as an optional profile, not a universal requirement. For a ready-to-adapt request use [prompt pack](references/presentation-prompt-pack.md). For exact wording or superseded decisions, search only the relevant category or source in `data/presentation-preferences.json`; the [request catalog](references/presentation-request-catalog.md) is the full on-demand reference. Latest task instructions override historical examples.
 - Visual/interaction decisions and reusable prompts: search [prompt-casebook](references/prompt-casebook.md) by topic, or inspect one entry in `data/changes.json`. The [web gallery](https://swaan-kim.github.io/html-pitch-artifacts-v2/) supplies actual before/after examples; the repository/offline-gallery package also has `index.html`. The smaller skill ZIP contains the reusable final source, not all archive downloads.
 - Source conventions and selection/export boundaries: [scene-authoring](references/scene-authoring.md).
 - Scope-aware reading and honest efficiency measurement: [context-efficiency](references/context-efficiency.md).

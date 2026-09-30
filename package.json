@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node tests/v2.test.mjs",
+    "test": "node tests/v2.test.mjs && node tests/prompt-library.test.mjs",
     "build": "node scripts/build_gallery.mjs",
     "qa": "node scripts/qa.mjs",
     "package": "node scripts/package.mjs"
